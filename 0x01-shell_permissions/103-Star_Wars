@@ -1,2 +1,3 @@
 #!/bin/bash
-mplayer StarWars.mp4
+telnet towel.blinkenlights.nl
+
